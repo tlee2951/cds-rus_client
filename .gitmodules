@@ -1,4 +1,4 @@
 [submodule "rush"]
 	path = rush
 	url = https://github.com/tlee2951/cds-rus_client-rush.git
-	branch = feature1 
+	branch = . 
